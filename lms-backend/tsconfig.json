@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    // Entorno
+    "target": "ES2020",
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+
+    // Mapas y declaraciones (opcional, útil si quieres compilar)
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    // Tipos
+    "types": ["node"],
+
+    // Opciones de chequeo extra
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true
+  }
+}
