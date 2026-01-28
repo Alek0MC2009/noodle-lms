@@ -1,5 +1,3 @@
----
-
 # Noodle - Learning Management System (LMS) Web
 
 ## 1. Descripción del proyecto
