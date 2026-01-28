@@ -23,7 +23,7 @@ El proyecto está pensado para un entorno educativo, con posibilidad de ampliaci
 
 ## 2. Evolución del proyecto
 
-La idea surgió cuando **Gerlin, Marko y Alejandro** exploraron plataformas LMS como Moodle. Decidieron crear una herramienta web nativa, con interfaz más intuitiva y adaptada a estudiantes y empresas.
+La idea surgió cuando **Gerlin y Alejandro** exploraron plataformas LMS como Moodle. Decidieron crear una herramienta web nativa, con interfaz más intuitiva y adaptada a estudiantes y empresas.
 
 Actualmente, el proyecto se encuentra en una **fase temprana de desarrollo**, centrada en:
 
