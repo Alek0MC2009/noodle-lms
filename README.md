@@ -1,5 +1,3 @@
-¡Perfecto! Entonces adaptamos el README para **tu proyecto web con React + TypeScript en frontend y Node + Express + SQLite en backend**, manteniendo toda la info importante de tu proyecto de clase.
-
 ---
 
 # Noodle - Learning Management System (LMS) Web
